@@ -19,11 +19,11 @@
   - [TP 00 : Diagramme de GANTT](./IT_PROJECT_MANAGEMENT/PRATIQUE/TP_00.md)
   - [TP 01 : Diagramme de PERT](./IT_PROJECT_MANAGEMENT/PRATIQUE/TP_01.md) 
 
-Coming Soon
-
 - [Projet](./IT_PROJECT_MANAGEMENT/PROJET/)
 
   - [Projet récapitulatif](./IT_PROJECT_MANAGEMENT/PROJET/PROJET.md) 
+
+Coming Soon
 
 [Analiser les besoins et maquetter une application avec Figma - (7 heures)](./FIGMA_PROTOTYPING/)
 
