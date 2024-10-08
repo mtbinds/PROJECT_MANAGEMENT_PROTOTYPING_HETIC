@@ -43,7 +43,6 @@
 
 [Évaluation finale](./FINAL_EVALUATION/)
  
-  - [Énoncé de l'évaluation finale](https://forms.gle/BUhskq4Dom2x7Z9Y9)
   - [Énoncé de l'évaluation finale](./FINAL_EVALUATION/FINAL_EVALUATION.md)
   
 ***Good Luck 😎***
