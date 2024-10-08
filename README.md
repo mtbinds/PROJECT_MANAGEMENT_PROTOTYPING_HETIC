@@ -23,8 +23,6 @@
 
   - [Projet récapitulatif](./IT_PROJECT_MANAGEMENT/PROJET/PROJET.md) 
 
-Coming Soon
-
 [Analiser les besoins et maquetter une application avec Figma - (7 heures)](./FIGMA_PROTOTYPING/)
 
 - [Théorie](./FIGMA_PROTOTYPING/THEORIE/)
@@ -38,6 +36,8 @@ Coming Soon
 - [Pratique](./FIGMA_PROTOTYPING/PRATIQUE/)
   
   - [TP 00 : Analyse des besoins et création d'une maquette avec Figma](./FIGMA_PROTOTYPING/PRATIQUE/TP_00.md)
+
+Coming Soon
 
 - [Projet](./IT_PROJECT_MANAGEMENT/PROJET/)
 
