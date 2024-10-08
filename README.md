@@ -37,14 +37,13 @@
   
   - [TP 00 : Analyse des besoins et création d'une maquette avec Figma](./FIGMA_PROTOTYPING/PRATIQUE/TP_00.md)
 
-Coming Soon
-
 - [Projet](./IT_PROJECT_MANAGEMENT/PROJET/)
 
   - [Projet récapitulatif](./FIGMA_PROTOTYPING/PROJET/PROJET.md)
 
 [Évaluation finale](./FINAL_EVALUATION/)
  
+  - [Énoncé de l'évaluation finale](https://forms.gle/BUhskq4Dom2x7Z9Y9)
   - [Énoncé de l'évaluation finale](./FINAL_EVALUATION/FINAL_EVALUATION.md)
-
+  
 ***Good Luck 😎***
